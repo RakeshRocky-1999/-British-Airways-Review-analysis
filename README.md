@@ -1,4 +1,4 @@
-# Sentiment and Ratings Analysis for British Airways Reviews
+# Discovering Insights from British Airways Reviews Using AI and NLP   
 
 ## Overview
 This project analyzes customer reviews from the British Airways website using Artificial Intelligence and Natural Language Processing (NLP) techniques. The objective was to extract meaningful insights, including sentiment and ratings, from unstructured text data and classify customer ratings using an Artificial Neural Network (ANN).
